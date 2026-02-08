@@ -88,8 +88,8 @@ The system uses a **mathematical rank-based fusion algorithm**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/consensus-ai.git
-cd consensus-ai
+git clone https://github.com/ryanfrigo/consensusai.git
+cd consensusai
 
 # Create virtual environment
 python -m venv venv
@@ -368,8 +368,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the ConsensusAI community**
+**Built by [Ryan Frigo](https://github.com/ryanfrigo)**
 
-[⭐ Star this repo](https://github.com/yourusername/consensus-ai) • [🐛 Report Bug](https://github.com/yourusername/consensus-ai/issues) • [💡 Request Feature](https://github.com/yourusername/consensus-ai/issues)
+[⭐ Star this repo](https://github.com/ryanfrigo/consensusai) • [🐛 Report Bug](https://github.com/ryanfrigo/consensusai/issues) • [💡 Request Feature](https://github.com/ryanfrigo/consensusai/issues)
 
 </div>

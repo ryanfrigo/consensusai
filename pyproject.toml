@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "consensus-ai"
 version = "1.0.0"
 description = "Multi-LLM portfolio management with mathematical consensus engine"
-authors = [{name = "ConsensusAI Contributors"}]
+authors = [{name = "Ryan Frigo", email = "rfrigo42@gmail.com"}]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"

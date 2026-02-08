@@ -44,9 +44,11 @@ app = FastAPI(
     description="A lightweight FastAPI service for automated portfolio management",
     version="1.0.0",
     lifespan=lifespan,
-    docs_url="/docs" if settings.debug else None,
-    redoc_url="/redoc" if settings.debug else None
-)# Add CORS middleware
+    docs_url="/docs",
+    redoc_url="/redoc"
+)
+
+# Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"] if settings.debug else ["https://yourdomain.com"],
